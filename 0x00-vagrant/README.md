@@ -1,0 +1,1 @@
+This directory contains 0-hello_ubuntu which has what the command uname prints when run it without any option. This is to verify you understand how to create a git hub repository and push/pull to/from the repository.
